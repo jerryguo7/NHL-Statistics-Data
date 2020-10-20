@@ -1,0 +1,21 @@
+Enter the filename to read from: nhlstats.txt
+NHL Results Summary
+
+Players with highest points and their teams:
+Player: St.Louis Points: 60 Team: TB
+
+Most aggressive players, their teams and their positions:
+Player: Clowe Team: NYR Position: RW
+Player: Ott Team: BUF Position: C
+
+Most valuable players and their teams:
+Player: Carter Team: LA
+
+Most promising players and their teams:
+Player: Ovechkin Team: WSH
+
+Teams that had the most number of penalty minutes:
+BOS
+
+Teams that had the most number of game winning goals:
+PIT

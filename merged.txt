@@ -1,0 +1,10 @@
+Enter the first filename to read from: list1.txt
+Enter the second filename to read from: list2.txt
+The Ordered Lists contain the following entries:
+List 1:
+[Amar, Boris, Charlie, Dan, Fujian, Inder, Travis]
+List 2:
+[Alex, Ben, Betty, Charlie, Dan, Pei, Travis, Zola, Zulu]
+
+A merged version of the two lists looks like this:
+[Alex, Amar, Ben, Betty, Boris, Charlie, Dan, Fujian, Inder, Pei, Travis, Zola, Zulu]
